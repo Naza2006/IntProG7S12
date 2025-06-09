@@ -1,3 +1,5 @@
+# Calcular el factorial de un número
+
 def factorial(n):
     if n < 0:
         raise ValueError("El número debe ser no negativo.")
